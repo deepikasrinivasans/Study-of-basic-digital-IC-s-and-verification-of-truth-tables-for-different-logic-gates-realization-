@@ -98,8 +98,10 @@ endmodule
 ```
 ## RTL DIAGRAM:
 ![RTL diagram](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/247faf40-9b06-4998-830c-a96a28fa3dcc)
+
 ## LOGIC SYMBOL & TRUTH TABLE:
 ![truth table](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/dd3261dc-0d55-430d-884c-4b3264857def)
+
 ## OUTPUT WAVEFORM VERIFIED:
 ![WAVEFORM](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/0c45945d-9421-4abd-841d-fa964ac448a0)
 ## RESULT:
