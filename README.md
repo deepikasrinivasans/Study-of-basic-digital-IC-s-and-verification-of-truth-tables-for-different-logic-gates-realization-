@@ -1,11 +1,11 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
+## Theory
 Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -51,22 +51,42 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-Procedure
+## Procedure:
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
+## Program:
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
+Developed by: Deepika S
+RegisterNumber:  212222230028
+```
+```
+module Exp01 (a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor);
+input a,b;
+output yand,yor,ynot,yxor,ynand,ynor,yxnor;
+and(yand,a,b);
+or(yor,a,b);
+not(ynot,a);
+xor(yxor,a,b);
+nand(ynand,a,b);
+nor(ynor,a,b);
+xnor(yxnor,a,b);
+endmodule
+```
+## Logic symbol & Truthtable:
+![truth table](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/dd3261dc-0d55-430d-884c-4b3264857def)
+
+
+## RTL diagram:
+![RTL diagram](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/247faf40-9b06-4998-830c-a96a28fa3dcc)
+
+## Output waveform:
 RTL
 
-Result:
+
+
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
