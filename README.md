@@ -80,7 +80,6 @@ Y= A⊕B
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## PROGRAM:
 ```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Deepika S
 RegisterNumber:  212222230028
 ```
@@ -97,18 +96,11 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 ```
-## LOGIC SYMBOL & TRUTH TABLE:
-![truth table](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/dd3261dc-0d55-430d-884c-4b3264857def)
-
-
 ## RTL DIAGRAM:
 ![RTL diagram](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/247faf40-9b06-4998-830c-a96a28fa3dcc)
-
-## OUTPUT VERIFIED:
-RTL
+## LOGIC SYMBOL & TRUTH TABLE:
+![truth table](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/dd3261dc-0d55-430d-884c-4b3264857def)
+## OUTPUT WAVEFORM VERIFIED:
 ![WAVEFORM](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/0c45945d-9421-4abd-841d-fa964ac448a0)
-
-
-
 ## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
