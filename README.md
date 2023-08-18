@@ -85,6 +85,7 @@ endmodule
 
 ## Output waveform:
 RTL
+![WAVEFORM](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/0c45945d-9421-4abd-841d-fa964ac448a0)
 
 
 
