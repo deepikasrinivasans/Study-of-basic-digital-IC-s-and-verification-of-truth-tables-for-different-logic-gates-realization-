@@ -1,6 +1,6 @@
 ## Name : DEEPIKA S
 ## Register Number : 212222230028
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Study of basic digital logic gates and verification of truth tables
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
