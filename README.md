@@ -1,3 +1,5 @@
+## Name : DEEPIKA S
+## Register Number : 212222230028
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -5,7 +7,7 @@ To study about the different digital IC’s and to verify the truth table in Qua
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-## Theory
+## Theory:
 ## Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -52,11 +54,30 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 Y= A⊕B
 
 ## PROCEDURE:
-Connect the supply (+5V) to the circuit
-Switch ON the main switch
-Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
-If the output is 1, then the bulb glows.
-Check all the gates following the same procedure.
+1. Create a New Project:
+   - Open Quartus and create a new project by selecting "File" > "New Project Wizard."
+   - Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
+
+2. Create a New Design File:
+   - Once the project is created, right-click on the project name in the Project Navigator and select "Add New File."
+   - Choose "Verilog HDL File" or "VHDL File," depending on your chosen hardware description language.
+
+3. Write the Combinational Logic Code:
+   - Open the newly created Verilog or VHDL file and write the code for your combinational logic.
+     
+4. Compile the Project:
+   - To compile the project, click on "Processing" > "Start Compilation" in the menu.
+   - Quartus will analyze your code, synthesize it into a netlist, and perform optimizations based on your target FPGA device.
+
+5. Analyze and Fix Errors:*
+   - If there are any errors or warnings during the compilation process, Quartus will display them in the Messages window.
+   - Review and fix any issues in your code if necessary.
+   - View the RTL diagram.
+
+6.*Verification:
+   - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
+   - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
+   - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## PROGRAM:
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
