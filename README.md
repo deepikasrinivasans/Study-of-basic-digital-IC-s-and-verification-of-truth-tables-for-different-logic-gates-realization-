@@ -1,6 +1,10 @@
 ## Name : DEEPIKA S
 ## Register Number : 212222230028
-## Study of basic digital logic gates and verification of truth tables
+## Ex 01 Study of basic digital logic gates and verification of truth tables
+## Date: 18.08.2023
+
+<br>
+
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -104,5 +108,8 @@ endmodule
 
 ## OUTPUT WAVEFORM VERIFIED:
 ![WAVEFORM](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/0c45945d-9421-4abd-841d-fa964ac448a0)
+
+<br>
+
 ## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
