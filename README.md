@@ -112,7 +112,5 @@ endmodule
 ## OUTPUT WAVEFORM VERIFIED:
 ![WAVEFORM](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/0c45945d-9421-4abd-841d-fa964ac448a0)
 
-<br>
-
 ## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
