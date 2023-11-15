@@ -100,6 +100,9 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 ```
+
+<br>
+
 ## RTL DIAGRAM:
 ![RTL diagram](https://github.com/deepikasrinivasans/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393935/247faf40-9b06-4998-830c-a96a28fa3dcc)
 
